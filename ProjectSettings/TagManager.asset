@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fire
   - Teleport
+  - Bounce
   layers:
   - Default
   - TransparentFX
